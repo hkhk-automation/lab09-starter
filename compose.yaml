@@ -1,6 +1,4 @@
-# Soovitud olek: kaks teenust. Compose võrdleb seda sellega, mis päriselt jookseb.
-name: lab09
-
+# Soovitud olek: kaks teenust. Compose võrdleb seda sellega, mis tegelikult jookseb.
 services:
   web:
     image: nginx:1.27-alpine
