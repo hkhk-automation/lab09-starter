@@ -1,0 +1,11 @@
+# Soovitud olek: kaks teenust. Compose võrdleb seda sellega, mis päriselt jookseb.
+name: lab09
+
+services:
+  web:
+    image: nginx:1.27-alpine
+    ports:
+      - "8080:80"
+
+  cache:
+    image: redis:7-alpine

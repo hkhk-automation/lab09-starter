@@ -1,0 +1,12 @@
+# Lisaülesanne B: väike playbook, mis haldab ühte faili sinu enda masinas.
+- name: triivi katse
+  hosts: localhost
+  connection: local
+  gather_facts: false
+  tasks:
+    - name: konfifail on soovitud olekus
+      ansible.builtin.copy:
+        dest: /tmp/lab09-nginx.conf
+        content: |
+          # hallatud Ansible'iga, ära muuda käsitsi
+          client_max_body_size 1m;
