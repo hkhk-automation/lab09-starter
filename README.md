@@ -15,7 +15,7 @@ See on sinu esitusrepo. Töötad GitHubi veebis (pliiatsi nupp ja **Add file**),
 | `compose.yaml` | Osa 3: kaks teenust, `web` ja `cache` |
 | `run.sh` | Osa 3: sama asi bash-skriptina |
 | `lisa/triiv.yml` | Osa 4: väike playbook triivi katseks |
-| `logid/` | Osade 3 ja 4 tõendid (käskude väljundid) |
+| `logid/` | Osade 3 ja 4 tõendid: kõik logid ühes failis `logid/koik.txt` (juhendi samm 4.3) |
 
 ---
 
