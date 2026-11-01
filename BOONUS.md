@@ -1,6 +1,6 @@
 # Lab 09 · Boonusülesanded
 
-Juhend: <https://hkhk-automation.github.io/devops/week09/lab/#boonusulesanded>
+Juhend: <https://hkhk-automation.github.io/devops/week09/lab/#lisaulesanded>
 
 ## Osa 2 · Võrdlustabel
 
