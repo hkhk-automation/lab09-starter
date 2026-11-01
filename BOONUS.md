@@ -1,6 +1,6 @@
 # Lab 09 · Boonusülesanded
 
-Ei ole kohustuslikud ja punkte ei anna. Juhend: <https://hkhk-automation.github.io/devops/week09/lab/#boonusulesanded>
+Juhend: <https://hkhk-automation.github.io/devops/week09/lab/#boonusulesanded>
 
 ## Osa 2 · Võrdlustabel
 
