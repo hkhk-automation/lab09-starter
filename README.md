@@ -5,27 +5,17 @@
 **Praktikumi juhend:** <https://hkhk-automation.github.io/devops/week09/lab/>
 **Loeng:** <https://hkhk-automation.github.io/devops/week09/lecture/>
 
-**Kohustuslik on ainult Osa 1 (KodeKloudi kursus) ja nimi ülal real „Sinu nimi“.** Osad 2-4 ja lisaülesanded on boonus, need punkte ei anna.
+Kohustuslik on ainult kaks asja:
 
-See on sinu esitusrepo. Töötad GitHubi veebis (pliiatsi nupp ja **Add file**), Dockeri katsed teed KodeKloudi terminalis. Asenda selles failis iga `_vastus_` oma tekstiga. Automaatkontroll otsib sõna `_vastus_`, ja kui see on alles, on vastus puudu.
+1. KodeKloudi kursuse sertifikaat kaustas `kodekloud/` (juhendi Osa 1). Kui sertifikaati ei anta, laadi üles ekraanipilt, millel on näha 100% ja sinu nimi (**Add file → Upload files**).
+2. Sinu nimi ülal real **Sinu nimi:** (`_vastus_` asemel).
 
-## Mis siin repos on
+Tähtaeg on neljapäev, 12.11 kell 23:59.
 
-| Fail või kaust | Mille jaoks |
-|---|---|
-| `kodekloud/` | Osa 1: KodeKloudi sertifikaat (kausta lood ise) |
-| `compose.yaml` | Osa 3: kaks teenust, `web` ja `cache` |
-| `run.sh` | Osa 3: sama asi bash-skriptina |
-| `lisa/triiv.yml` | Osa 4: väike playbook triivi katseks |
-| `logid/` | Osade 3 ja 4 tõendid: kõik logid ühes failis `logid/koik.txt` (juhendis „Logid GitHubi“) |
+<details>
+<summary><b>Boonusülesanded</b> (ei ole kohustuslikud, punkte ei anna)</summary>
 
----
-
-## Osa 1 · KodeKloudi kursus
-
-Laadi kausta `kodekloud/` kursuse sertifikaat. Kui sertifikaati ei anta, laadi üles ekraanipilt, millel on näha 100% ja sinu nimi (**Add file → Upload files**).
-
----
+Juhend: <https://hkhk-automation.github.io/devops/week09/lab/#boonusulesanded>. Asenda iga `_vastus_` oma tekstiga.
 
 ## Osa 2 · Võrdlustabel
 
@@ -97,3 +87,5 @@ _vastus_
 Pane skript faili `lisa/triivikontroll.sh` ja selle väljund faili `logid/lisa-b.txt`. Kirjuta siia cron'i rida, mis käivitab skripti igal ööl kell 3.
 
 _vastus_
+
+</details>
